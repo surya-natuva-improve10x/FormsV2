@@ -46,7 +46,7 @@ public class RegistrationSuccessfullActivity extends AppCompatActivity {
         userNameTxt.setText(firstName);
         TextView lastNameTxt = findViewById(R.id.lastname_txt);
         userNameTxt.setText(lastName);
-        TextView
+
 
     }
 }
